@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Welcome To Mahalla </string>
+
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+
+    <!-- Category name for information [CHAR LIMIT=20] -->
+    <string name="category_information">Transfers</string>
+
+    <!-- Category name for the vocabulary words for schools [CHAR LIMIT=20] -->
+    <string name="category_schools">Schools</string>
+
+    <!-- Category name for the vocabulary words for restaurant [CHAR LIMIT=20] -->
+    <string name="category_restaurant">Restaurant</string>
+
+    <!-- Category name for the vocabulary words for local places[CHAR LIMIT=20] -->
+    <string name="category_local_places">local places</string>
+    <!--   the array of restaurant   -->
+    <string name="name_restaurant_place1">EL Baghl</string>
+    <string name="name_restaurant_place2">Ketchup</string>
+    <string name="name_restaurant_place3">Barcbecue</string>
+    <string name="name_restaurant_place4">EL taiba</string>
+    <string name="name_restaurant_place5">EL Sayad</string>
+    <string name="name_restaurant_place6">EL Saaedy</string>
+    <!-- the array of school-->
+    <string name="name_school_place1">Talat Harb</string>
+    <string name="name_school_place2">Salah El_dien</string>
+    <string name="name_school_place3">Mahalla Sanwya for boys</string>
+    <string name="name_school_place4">Glory</string>
+    <string name="name_school_place5">Sadat</string>
+    <string name="name_school_place6">Aahd Elhadeeth</string>
+
+
+    <!-- the array of local places -->
+    <string name="name_local_place1">abo Radi</string>
+    <string name="name_local_place2">Baladia Mahalla Stadium</string>
+    <string name="name_local_place3">entrance Mahalla </string>
+    <string name="name_local_place4">fatah allah</string>
+    <string name="name_local_place5">Ghazal Mahalla Stadium </string>
+    <string name="name_local_place6">Ghazal Mahalla team</string>
+    <string name="name_local_place7">Ghazal Mahalla Company</string>
+    <string name="name_local_place8">police center </string>
+    <string name="name_local_place9">Qasr Thakafa</string>
+    <string name="name_local_place10">qesm awal</string>
+    <string name="name_local_place11">Train</string>
+    <string name="name_local_place12">Shokry Kotly</string>
+
+
+    <!-- the array of the transfers-->
+
+    <string name="taxi_cars">Taxi</string>
+    <string name="microbas_cars">microbas</string>
+    <string name="Qesm_Tani_police">Qesm Tani Police</string>
+    <string name="toktok1">toktok</string>
+    <string name="mawqaf_sha3bya">mawqaf sha3bya</string>
+    <string name="mawqaf_mansoura">mawqaf mansoura</string>
+
+
+</resources>

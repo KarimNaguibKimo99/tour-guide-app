@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the address of the restaurants -->
+
+    <!-- the four location of the bagl-->
+    <string name="baghl_address1">El_Hanafi</string>
+    <string name="baghl_address2">Shoun</string>
+    <string name="baghl_address3">Seka zefta</string>
+    <string name="baghl_address4">Mahgoub</string>
+    <string name="ketchup_address">Near to monalisa</string>
+    <string name="taiba_address">Mashhma</string>
+    <string name="EL_Sayad"> Seven Of banat</string>
+    <string name="EL_Sa3edy"> At the traffic </string>
+    <string name="Barbecue">Behind Baladia Mahalla club</string>
+
+    <!-- the address of the schools -->
+    <string name="salah_eldien_address">Seven of banat</string>
+    <string name="talat_harb_address">dawran seka zefta</string>
+    <string name="mahalla_sanywia_boys">abo shahen</string>
+    <string name="glory_address">Behind Sha3bya</string>
+    <string name="sadat_address">Bander</string>
+    <string name="aahd_elhadeeth_address">Kafer ElSheikh_ Mahalla Road</string>
+
+
+    <!-- the address of the schools -->
+    <string name="abo_radi_address">mashhma</string>
+    <string name="baladia_mahalla_stadium_address">Mohb</string>
+    <string name="entrance_Mahalla_address">elshaarawy </string>
+    <string name="fatah_allah_address">dawran seka zefta</string>
+    <string name="Ghazal_mahalla_stadium_address">EL_masaken </string>
+    <string name="Ghazal_mahalla_team_address">EL_masaken </string>
+    <string name="Ghazal_Mahalla_company_address">EL_masaken </string>
+    <string name="police_center_address">abo ali</string>
+    <string name="Qasr_Thakafa_address">Banzayoun</string>
+    <string name="Qesm_awal_address">EL Bander</string>
+    <string name="Baladia_mahalla_team_address">Mohb</string>
+    <string name="Shokry_ELkotly_address">Bander</string>
+    <string name="train_station_address">banzayoun</string>
+
+
+    <!-- the address of the transfers -->
+    <string name="taxi">everywhere</string>
+    <string name="microbas">everywhere</string>
+    <string name="toktok">everywhere</string>
+    <string name="qesm_tani_address">shoun</string>
+    <string name="mawqaf_sha3bya_address">shaabya</string>
+    <string name="mawqaf_mansoura_address">banzayoun</string>
+
+
+</resources>
